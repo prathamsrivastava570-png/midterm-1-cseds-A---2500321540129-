@@ -1,0 +1,12 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "description": "A basic library management system with CRUD operations",
+  "main": "practical.js",
+  "scripts": {
+    "start": "node practical.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
